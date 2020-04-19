@@ -7,4 +7,4 @@ This project collected data from Leafly.com via web-scrapping
   
  The data was then used to decipher the average mean price of 1/8 grams of marijuana in cities around the US where the data was available.
  
- See the .docx file for final results.
+ See the final_output.pdf file for final results.
